@@ -24,4 +24,12 @@ Once files are uploaded and the "Submit & Process" button is clicked, the system
 Users can then input questions, and the system responds with relevant information from the PDF documents.
 Overall, this project combines PDF processing, natural language understanding, and conversational AI to create a user-friendly interface for querying information from PDF files.
 
-https://github.com/shabanaalina14/chat_with_multiple/tree/main
+git clone https://github.com/shabanaalina14/chat_with_multiple/tree/main
+
+Contact For any questions or suggestions, please feel free to reach.
+
+Gmail: shabanaalina14@gmail.com
+
+GitHub Profile: https://github.com/shabanaalina14
+
+Happy Coding!
